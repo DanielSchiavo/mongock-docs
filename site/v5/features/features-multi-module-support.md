@@ -1,5 +1,5 @@
 ---
-title: 'Multi-Module Support'
+title: 'Module Self Registration'
 date: 2014-04-18 11:30:00
 permalink: /v5/features/multi-module-support/index.html
 toc: true
@@ -7,11 +7,11 @@ eleventyNavigation:
   version: v5
   order: 30
   parent: features
-  key: features multi-module support
-  title: 'Multi-Module Support'
+  key: features module self registration
+  title: 'Module Self Registration'
 ---
 
-# Multi-Module Support
+# Module Self Registration
 
 [[TOC]]
 
